@@ -1,3 +1,5 @@
 # test
-test sync a fork
+delete something
+
+add sommldsjaldlf
 add  some thing
